@@ -1,14 +1,14 @@
 # Lukáš Hozda
 
-Howdy.
+Howdy. I am a Rust programmer.
 
 ### Some Rust projects
 
-- [morpho](https://github.com/luciusmagn/morpho)
-- [gjk.cat](https://github.com/gjk-cat/gjk.cat)
-- [cat-prep](https://github.com/gjk-cat/cat-prep)
-- [ipc-rs](https://github.com/luciusmagn/ipc-rs) -
-- [hyper-rat](https://github.com/luciusmagn/hyper-rat) - a minimalistic static site generator with highly freeform structure
+- [morpho](https://github.com/luciusmagn/morpho) - a light-weight static site generator.
+- [gjk.cat](https://github.com/gjk-cat/gjk.cat) - a GJK platform for sharying study materials
+- [cat-prep](https://github.com/gjk-cat/cat-prep) - mdBook preprocessor for creating a study material wiki-like site
+- [ipc-rs](https://github.com/luciusmagn/ipc-rs) - library that maps System V message queues
+- [hyper-rat](https://github.com/luciusmagn/hyper-rat) - minimalistic static site generator with highly freeform structure
 - [minilinuxfs](https://github.com/luciusmagn/minilinuxfs) - a Linux distribution build system used by the CTU university
 - [rgc](https://git.microlab.space/magnusi/rgc) - a small Gopher client for the command-line
 - [initrs](https://git.microlab.space/magnusi/initrs) - a minimalistic Linux init  (inspired by sinit)
