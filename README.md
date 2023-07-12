@@ -35,6 +35,9 @@ Howdy. I am a Rust programmer.
 ### Contact information
 
 Telegram: @luciusmagn  
-Discord: magnusi#7132  
+Discord: magnusi
 E-mail: luk.hozda@gmail.com  
 
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC4OFh1qpbNA72LXhC6Kxwx3GhocuANGUq1c5pP8ob8oijuirN/6Dp8B93MYf7aq8fxggKpzKxjPkYxkm/H0bvWyJWq9NbzSg+PkUJIB0TQCjR3h/glsz7ABZDAIsnIgdZ4nxPQxPmLE1nWyMEJ5qOhDfUJTvqVXiW1ReR7sE6JO2bbeaDd5vYu4GwfH3K6x0rlAcBs6OXEQvwySz/YeU1HilB4RQRSx+Xa7JCf0thoIpWBEsffUXuDVWPxy6/2ok0rubZyJ2ZwuXUEuX+bGoRhUkPQ+1hxquq1zFl0z8p5Jy8I/z/6c0oY4Tb2DCvZXIhlHN36yxrRvvVnQmkBhj6v0eA8f4th6QBR/Woq54paEoJC2qtZ2HXd3akLWQ8Yv5gKARr8Ch56+4LlgvhhBR/g7qN8w1LWjv0OsCaT8YV4gxBbLo+lOnmxkrrpFR8iKbFyOjt2wmrtbIG0NOynTWodyjYgXgibLyHQIdSJYo/9nA+nJT8vJaIL2pOLJnNUT9OYINWXsppdYXwufBLCoNKnhUK/fBy7qWVhhGrXHigzVkjDo5ZwEhnLoNaN/zrDTzZurRYN/dj7DWnpaBpSsZyEBeZx0W3ggqt8x8AOSLMTRJdPsW8zBUPJPG++8WZG4sgZ9PqSqyciSyb46uXnsnh0wvUllW2i5Dot8IWn/H5i0w==
+```
